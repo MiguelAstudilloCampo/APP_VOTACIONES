@@ -1,0 +1,17 @@
+body {
+    position: relative;
+    background-image: url(../../static/img/Fondo_colegio.jpg);
+    background-size: cover;
+
+}
+main{
+    margin-top: 5.5%;
+}
+
+form{
+    background-color: rgba(231, 226, 226, 0.5);
+}
+
+main form div img {
+    width: 25%;
+}
